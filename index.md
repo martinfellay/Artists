@@ -23,7 +23,6 @@
             <p class="copy">Increase the quality of your sound and production with a professional sound.</p>
         </div>
     </header>
-
     <main>
         <section class="services" id="services">
             <h2 class="subtitulo">Mis servicios</h2>
@@ -58,7 +57,6 @@
                     </div>
             </div>
         </section>
-
         <section class="music" id="music">
             <div class="contenedor">
                 <h2 class="subtitulo">Escuchá mi música</h2>
@@ -78,7 +76,6 @@
                 </div>
             </div>
         </section>
-
         <!-- <section class="gallery" id="gallery">
             <div class="contenedor">
                 <h2 class="subtitulo">Mi entorno</h2>
@@ -91,14 +88,12 @@
                 </div>
             </div>
         </section> -->
-
                     <!-- EFECTO LIGHTBOX IMAGENES-->
         <!-- <section class="imagen-light">
             <img src="#" alt="" class="close">
             <img src="#" alt="" class="agregar-imagen">
         </section> -->
     </main>
-
     <footer class="contact" id="contact">
         <div class="contenedor footer-content">
             <div class="form-contenedor">
@@ -138,7 +133,6 @@
             </div>
         </div>
         </footer>
-
     <script src="/js/menu.js"></script>
     <script src="/js/app.js"></script>
 </body>

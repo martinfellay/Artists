@@ -25,7 +25,6 @@
         </div>
     </header>
 
-    <main>
         <section class="services" id="services">
             <h2 class="subtitulo">Mis servicios</h2>
             <div class="contenedor-services">
@@ -98,7 +97,6 @@
             <img src="#" alt="" class="close">
             <img src="#" alt="" class="agregar-imagen">
         </section> -->
-    </main>
 
     <footer class="contact" id="contact">
         <div class="contenedor footer-content">

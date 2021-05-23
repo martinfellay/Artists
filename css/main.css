@@ -3,16 +3,13 @@
   padding: 0%;
   box-sizing: border-box;
 }
-
 :root {
   scroll-behavior: smooth;
 }
-
 /*GENERALS*/
 body {
   font-family: "Roboto", sans-serif;
 }
-
 .contenedor {
   width: 90%;
   max-width: 1200px;
@@ -20,7 +17,6 @@ body {
   margin: auto;
   padding: 60px 0%;
 }
-
 .subtitulo {
   text-align: center;
   font-weight: 200;
@@ -28,7 +24,6 @@ body {
   color: #9f8ad0;
   margin: 80px;
 }
-
 /*SECTIONS*/
 header {
   height: 100vh;
@@ -64,7 +59,6 @@ header {
   font-size: 7vh;
   text-align: center;
 }
-
 .btn-menu {
   position: fixed;
   z-index: 10;
@@ -78,7 +72,6 @@ header {
   border-radius: 100px;
   box-shadow: 0 0 8.5vh rgba(0, 0, 2, 0.534);
 }
-
 .menu-navegacion {
   display: flex;
   flex-direction: column;
@@ -99,11 +92,9 @@ header {
   font-size: 21px;
   text-decoration: none;
 }
-
 .spread {
   transform: translate(0);
 }
-
 /*SERVICES*/
 .services {
   flex-wrap: wrap;
@@ -112,7 +103,6 @@ header {
 .services h2 {
   margin: 20px 0px;
 }
-
 .contenedor-services {
   width: 100%;
   padding: 10px 40px;
@@ -159,16 +149,13 @@ header {
   line-height: 140%;
   font-size: 3.2vh;
 }
-
 .service_card:hover {
   transform: scale3d(1.01, 1.01, 1.01);
   box-shadow: 0px 0px 20px 0px #5a77ceaf;
 }
-
 .form-contenedor:hover {
   box-shadow: 0px 0px 20px 0px #5a77ceaf;
 }
-
 /*MUSIC*/
 section.music .contenedor {
   padding-top: 5px;
@@ -176,7 +163,6 @@ section.music .contenedor {
 section.music h2 {
   margin-top: 0px;
 }
-
 .contenedor-music {
   display: flex;
   margin: 0px;
@@ -285,7 +271,6 @@ section.music h2 {
 .footer-content .contact-me .brand {
   font-size: 1.5rem;
 }
-
 .social-media {
   padding-top: 75px;
   margin: 10px auto;
@@ -310,17 +295,14 @@ section.music h2 {
     padding: 30px 0px;
     text-align: center;
   }
-
   .subtitulo {
     margin: 30px;
   }
-
   .contenedor-services .service_card {
     width: 80vh;
     flex-direction: row;
     flex-wrap: nowrap;
   }
-
   .footer-content {
     margin: 0px auto;
   }
@@ -335,5 +317,3 @@ section.music h2 {
     font-size: 2.7rem;
   }
 }
-
-/*# sourceMappingURL=main.css.map */
